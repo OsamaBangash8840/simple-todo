@@ -9,6 +9,11 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        clearItem:'#D98326',
+        belowBorder:'#76B7CD',
+        completedColor:'#C2C2C2',
+        primary:'#F1ECE6',
+        buttonColor:"#76B7CD",
         background: "var(--background)",
         foreground: "var(--foreground)",
       },

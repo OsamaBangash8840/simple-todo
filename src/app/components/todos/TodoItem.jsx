@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import Checked from '@/app/assests/Checked.png'
+import Checked from '@/app/assests/checked.png'
 import Unchecked from '@/app/assests/unchecked.png'
 import Bin from '@/app/assests/Delete outline.png'
 
